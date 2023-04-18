@@ -16,11 +16,18 @@ Accepted in International Joint Conference on Neural Networks (IJCNN) 2023
 
 This work presents a novel self-supervised pre-training method to learn efficient representations without labels on histopathology medical images utilizing magnification factors. Other state-of-the-art works mainly focus on fully supervised learning approaches that rely heavily on human annotations. However, the scarcity of labeled and unlabeled data is a long-standing challenge in histopathology. Currently, representation learning without labels remains unexplored in the histopathology domain. The proposed method, Magnification Prior Contrastive Similarity (MPCS), enables self-supervised learning of representations without labels on small-scale breast cancer dataset BreakHis by exploiting magnification factor, inductive transfer, and reducing human prior. The proposed method matches fully supervised learning state-of-the-art performance in malignancy classification when only 20% of labels are used in fine-tuning and outperform previous works in fully supervised learning settings for three public breast cancer datasets, including BreakHis. Further, It provides initial support for a hypothesis that reducing human-prior leads to efficient representation learning in self-supervision, which will need further investigation.
 
-# Method
+# Domain Adaptation by Self-supervised Reporesentation Learning Method
 [SimCLR](http://proceedings.mlr.press/v119/chen20j.html) contrastive learning method employed for self-supervised representation learning part.
 <p align="center">
-  <img src="https://github.com/prakashchhipa/Functional_Knowledge_Transfer_SSL/blob/main/figures/method.png">
+  <img src="https://github.com/muskaan712/Domain-adaptable-self-supervised-representation-learning-based-classification-of-remotely-sensed-sat/blob/main/figures/contrastive_ssl_on_remote_sensing.PNG">
 </p>
+
+Domain Adaptation Framework
+
+<p align="center">
+  <img src="https://github.com/muskaan712/Domain-adaptable-self-supervised-representation-learning-based-classification-of-remotely-sensed-sat/blob/main/figures/ssl_domain_adpation_framework.PNG">
+</p>
+
 
 # Datasets
 Three publically available datasets from remote sensing domain are chosen for exprimentations.
