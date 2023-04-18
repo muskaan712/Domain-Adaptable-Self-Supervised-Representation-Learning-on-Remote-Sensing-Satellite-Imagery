@@ -41,3 +41,34 @@ Three publically available datasets from remote sensing domain are chosen for ex
 1. [SSL Pretrained Model on SIRI-WHU Dataset](https://github.com/muskaan712/Domain-adaptable-self-supervised-representation-learning-based-classification-of-remotely-sensed-sat/tree/main/Pretext_Checkpoints/SIRI-WHU)
 2. [SSL Pretrained Model on UC Merced Dataset](https://github.com/muskaan712/Domain-adaptable-self-supervised-representation-learning-based-classification-of-remotely-sensed-sat/tree/main/Pretext_Checkpoints/UCMD)
 2. [SSL Pretrained Model on MLRSNet Dataset](https://github.com/muskaan712/Domain-adaptable-self-supervised-representation-learning-based-classification-of-remotely-sensed-sat/tree/main/Pretext_Checkpoints/MLRSNet)
+
+# Results
+All the expriments have batch size of 256 and ResNet50 encoder.
+<p align="center">
+  <img src="https://github.com/muskaan712/Domain-adaptable-self-supervised-representation-learning-based-classification-of-remotely-sensed-sat/blob/main/results/SIRI-WHU_results.PNG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/muskaan712/Domain-adaptable-self-supervised-representation-learning-based-classification-of-remotely-sensed-sat/blob/main/results/MLRSNet_results.PNG">
+</p>
+
+<p align="center">
+  <img src="https://github.com/muskaan712/Domain-adaptable-self-supervised-representation-learning-based-classification-of-remotely-sensed-sat/blob/main/results/UCMD_results.PNG">
+</p>
+
+# Qualitative
+<p align="center">
+  <img  src="https://github.com/muskaan712/Domain-adaptable-self-supervised-representation-learning-based-classification-of-remotely-sensed-sat/blob/main/results/activationmaps.PNG">
+</p>
+
+
+  
+# Commands
+
+1. Pretrain
+
+``````
+
+2. Finetune - downstream task
+
+``````
