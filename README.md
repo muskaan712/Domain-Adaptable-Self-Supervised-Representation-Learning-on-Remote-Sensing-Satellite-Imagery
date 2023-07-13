@@ -12,7 +12,7 @@ Accepted in International Joint Conference on Neural Networks (IJCNN) 2023
 [Arxiv Version]()
 
 # Recorded Presentation
-[![IMAGE ALT TEXT HERE](https://github.com/prakashchhipa/Magnification-Prior-Self-Supervised-Method/blob/main/figures/YT_intro.PNG)]([https://www.youtube.com/watch?v=z9_mjW2JStQ](https://www.youtube.com/watch?v=NOjXK1_cdhA))
+[![IMAGE ALT TEXT HERE](https://github.com/muskaan712/Domain-Adaptable-Self-Supervised-Representation-Learning-on-Remote-Sensing-Satellite-Imagery/blob/main/figures/sih_thumb.PNG)](https://www.youtube.com/watch?v=NOjXK1_cdhA)
 
 
 # Abstract
