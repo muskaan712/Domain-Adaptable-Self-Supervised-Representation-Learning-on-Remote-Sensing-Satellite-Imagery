@@ -4,12 +4,12 @@ Domain Adaptable Self-supervised Representation Learning on Remote Sensing Satel
 
 # Venue
 
-Accepted in International Joint Conference on Neural Networks (IJCNN) 2023
+Accepted at [International Joint Conference on Neural Networks (IJCNN) 2023](https://2023.ijcnn.org/)
 
 
 # Article
 
-[Arxiv Version]()
+[Arxiv Version](https://arxiv.org/abs/2304.09874)
 
 # Recorded Presentation
 [![IMAGE ALT TEXT HERE](https://github.com/muskaan712/Domain-Adaptable-Self-Supervised-Representation-Learning-on-Remote-Sensing-Satellite-Imagery/blob/main/figures/sih_thumbnail.PNG)](https://www.youtube.com/watch?v=NOjXK1_cdhA)
